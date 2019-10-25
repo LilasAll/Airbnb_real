@@ -1,24 +1,5 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<h1>READ ME</h1>
+<h5>This repository containt all the files to create the database of a website like Airbnb</br>
+run bundle install before in your terminal before use it</h5>
+<h3> HAVE FUN WITH THIS APP</h3>
+<h6>Thanks to The Hacking Project - This is a studie work<h6>
